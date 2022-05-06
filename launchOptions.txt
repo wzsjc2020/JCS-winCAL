@@ -1,0 +1,7 @@
+showStartLogo:true
+fullscreen:false
+lang:en_us
+theme:lighter
+showUpdates:false
+tutorialStep:none
+font:Arial
